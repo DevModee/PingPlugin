@@ -1,0 +1,10 @@
+name: PingPlugin
+version: 1.0.0
+main: dev.amargos.Main
+author: DevModee
+description: This is just a ping plugin
+api-version: 1.8
+commands:
+  ping:
+    description: Devuelve la latencia del jugador
+    usage: /<command>
